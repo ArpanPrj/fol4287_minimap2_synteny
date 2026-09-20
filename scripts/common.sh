@@ -41,7 +41,7 @@ if [[ ! -x "${MINIFORGE_PREFIX}/bin/conda" ]] || [[ ! -d "${ENV_PREFIX}" ]]; the
 fi
 source "${MINIFORGE_PREFIX}/etc/profile.d/conda.sh"
 conda activate "${ENV_PREFIX}"
-
+source "${ROOT}/scripts/configure_fonts.sh"
 sha256_files() {
   if command -v sha256sum >/dev/null 2>&1; then
     sha256sum "$@"
