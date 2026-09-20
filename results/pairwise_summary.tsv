@@ -1,0 +1,5 @@
+query	accession	host_context	reference_length_bp	aligned_reference_bp	percent_reference_aligned	alignment_blocks	weighted_mean_identity
+Fo47	GCF_013085055.1	endophyte_biocontrol	57912462	41008690	70.8115	1679	95.9780
+FoCL57	GCA_000260155.3	tomato_crown_root_rot	57912462	40607586	70.1189	1887	96.0784
+FoCotton	GCA_000260175.2	cotton_wilt	57912462	40355696	69.6840	3085	95.1375
+FolD11	GCA_003977725.1	tomato_wilt	57912462	50006431	86.3483	1307	98.0325

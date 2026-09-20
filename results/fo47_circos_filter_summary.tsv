@@ -1,0 +1,7 @@
+metric	value
+all_primary_and_supplementary_blocks	1679
+plot_min_reference_span_bp	50000
+plot_min_identity_percent	90.0000
+blocks_retained_for_plot	247
+same_orientation_blocks_for_plot	70
+opposite_orientation_blocks_for_plot	177

@@ -1,0 +1,12 @@
+component	version
+platform	linux-64
+environment_yml_sha256	57edaa9093e05121477ef5a758907cc4621c940177915cfc6d05c75c79abc76b
+explicit_lock	environment-linux-64.lock.txt
+explicit_lock_sha256	277d576def52ffc86b2e63d97bb30929aba45e5527fa631e533e94c82b068abf
+conda	26.7.2
+python	3.12.14
+minimap2	2.31-r1302
+datasets	datasets version: 18.37.0
+seqkit	
+R	4.5.3 (2026-03-11)
+circlize	0.4.18

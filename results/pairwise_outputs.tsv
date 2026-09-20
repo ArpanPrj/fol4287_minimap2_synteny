@@ -1,0 +1,5 @@
+query	accession	host_context	alignment_tsv
+Fo47	GCF_013085055.1	endophyte_biocontrol	results/pairwise_alignments/Fol4287_vs_Fo47.tsv
+FoCL57	GCA_000260155.3	tomato_crown_root_rot	results/pairwise_alignments/Fol4287_vs_FoCL57.tsv
+FoCotton	GCA_000260175.2	cotton_wilt	results/pairwise_alignments/Fol4287_vs_FoCotton.tsv
+FolD11	GCA_003977725.1	tomato_wilt	results/pairwise_alignments/Fol4287_vs_FolD11.tsv

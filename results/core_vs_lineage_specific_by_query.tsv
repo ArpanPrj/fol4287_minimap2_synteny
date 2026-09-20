@@ -1,0 +1,9 @@
+query	accession	host_context	chromosome_class	chromosome_count	total_length_bp	aligned_bp	percent_aligned	median_chromosome_percent_aligned	alignment_blocks	weighted_mean_identity
+Fo47	GCF_013085055.1	endophyte_biocontrol	core	11	43414532	39608560	91.2334	94.2956	1215	96.2040
+Fo47	GCF_013085055.1	endophyte_biocontrol	lineage_specific	4	14497930	1400130	9.6574	6.4987	464	90.5937
+FoCL57	GCA_000260155.3	tomato_crown_root_rot	core	11	43414532	39456901	90.8841	94.3375	1230	96.2277
+FoCL57	GCA_000260155.3	tomato_crown_root_rot	lineage_specific	4	14497930	1150685	7.9369	7.8703	657	91.6360
+FoCotton	GCA_000260175.2	cotton_wilt	core	11	43414532	38039883	87.6202	88.7061	1709	95.4540
+FoCotton	GCA_000260175.2	cotton_wilt	lineage_specific	4	14497930	2315813	15.9734	15.4240	1376	90.9347
+FolD11	GCA_003977725.1	tomato_wilt	core	11	43414532	41836539	96.3653	98.3625	871	98.9374
+FolD11	GCA_003977725.1	tomato_wilt	lineage_specific	4	14497930	8169892	56.3521	62.6333	436	94.0203

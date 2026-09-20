@@ -1,0 +1,33 @@
+Annotation verification
+=======================
+
+The annotated repository was created from the Minimap2 repository template by
+inserting comment-only documentation into code/configuration files.
+
+For each annotated code file, every original line was verified to still occur
+unchanged and in the same order in the annotated copy. No original executable
+line was deleted, reordered, or rewritten by the annotation step.
+
+Annotated files:
+- setup.sh
+- run_all.sh
+- environment.yml
+- config/bootstrap.sh
+- config/parameters.sh
+- scripts/common.sh
+- scripts/01_download_genomes.sh
+- scripts/01_parse_genomes.py
+- scripts/02_run_minimap2.sh
+- scripts/02_canonicalize_paf.py
+- scripts/03_summarize_multigenome.sh
+- scripts/03_summarize_multigenome.py
+- scripts/04_plot_summary.sh
+- scripts/04_plot_summary.R
+- scripts/05_plot_circos.sh
+- scripts/05_plot_circos.R
+- scripts/06_checksums.sh
+- scripts/set_reference_checksums.sh
+- scripts/verify_reference_checksums.sh
+
+The TSV configuration files were deliberately left unchanged because adding
+comment rows would alter how simple TSV readers interpret them.
