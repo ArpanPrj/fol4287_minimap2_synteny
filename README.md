@@ -690,10 +690,4 @@ This is a **Minimap2-based** implementation. If you compare it with a previous M
 
 The biological question and downstream summary concept are the same; the alignment method is different.
 
-## Repository
 
-GitHub repository:
-
-```text
-https://github.com/ArpanPrj/CBC_2026_Week5_Minimap2
-```
