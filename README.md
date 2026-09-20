@@ -9,8 +9,8 @@ This version uses **Minimap2**, not MUMmer/`dnadiff`. The workflow downloads the
 No problem. Clone the repository and enter the project folder:
 
 ```bash
-git clone https://github.com/ArpanPrj/CBC_2026_Week5_Minimap2.git
-cd CBC_2026_Week5_Minimap2
+git clone https://github.com/ArpanPrj/fol4287_minimap2_synteny.git
+cd fol4287_minimap2_synteny
 ```
 
 Then run the whole workflow with one command:
